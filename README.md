@@ -30,12 +30,13 @@
 При использовании модулей на несоответствующих релизах конфиграции могут потребоваться доработки.
 
 
-## Возможности [RetailCRM_УТ11.5:](https://github.com/retailcrm/1C-configuration/tree/master/Управление_торговлей/УТ11.5) и [RetailCRM_KA2.5:](https://github.com/retailcrm/1C-configuration/tree/master/Комплексная_автоматизация/КА2.5)
+## Возможности [RetailCRM_УТ11.5:](https://github.com/retailcrm/1C-configuration/tree/master/Управление_торговлей/УТ11.5), [RetailCRM_KA2.5:](https://github.com/retailcrm/1C-configuration/tree/master/Комплексная_автоматизация/КА2.5) и [RetailCRM_ERP2.5:](https://github.com/retailcrm/1C-configuration/tree/master/ERP_Управление_предприятием)
 
 * Не требуется снятие конфигурации с замка
 * Возможность подключения в режиме 1С:Предприятие (только если не используются web-сервисы)
 * Передача новых заказов и всех изменений по заказам из системы RetailCRM в 1С в режиме реального времени при помощи web-сервиса
 * Передача изменений по заказу из 1C в RetailCRM
+* Выгрузка новых заказов из 1С в RetailCRM (только в модулях УТ11.5 и КА2.5)
 * Синхронизация остатков и закупочных цен в 1С и в RetailCRM в разрезе складов
 * Выгрузка каталога товаров в RetailCRM с иерархией по видам или группам номенклатуры
 * Выгрузка типов цен в RetailCRM
