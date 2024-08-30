@@ -1,4 +1,4 @@
-# [Документация к модулям:](https://docs.retailcrm.ru/Users/Integration/WareHouseSystem/1c)
+## С документацией по модулям можно ознакомиться [здесь](https://docs.retailcrm.ru/Users/Integration/WareHouseSystem/1c) 
 
 ## Модули для УТ 11.5, КА 2.5, ERP 2.5, Розница 3.0 и УНФ 3.0
 Модули работают только на платформе выше 8.3.23.хххх.
