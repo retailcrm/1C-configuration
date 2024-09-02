@@ -1,3 +1,5 @@
+## С документацией по модулям можно ознакомиться [здесь](https://docs.retailcrm.ru/Users/Integration/WareHouseSystem/1c). 
+
 ## Модули для УТ 11.5, КА 2.5, ERP 2.5, Розница 3.0 и УНФ 3.0
 Модули работают только на платформе выше 8.3.23.хххх.
 Если открыть базу с обновленным модулем на старой платформе, регламентные задания не будут отображаться в списке регламентных и фоновых заданий.
@@ -16,7 +18,7 @@ _Внутренняя ошибка: запрещенная комбинация 
 
 ### Данные решения являются шаблонными
 
-## Возможности [RetailCRM_UNF3.0:](https://github.com/retailcrm/1C-configuration/tree/master/Управление_нашей_фирмой/УНФ3.0) и [RetailCRM_Retail3.0:](https://github.com/retailcrm/1C-configuration/tree/master/Розница)
+## Возможности [RetailCRM_UNF3.0:](https://github.com/retailcrm/1C-configuration/tree/master/Управление_нашей_фирмой/УНФ3.0), [RetailCRM_Retail3.0:](https://github.com/retailcrm/1C-configuration/tree/master/Розница/Розница3.0) и [RetailCRM_Retail2.3:](https://github.com/retailcrm/1C-configuration/tree/master/Розница/Розница2.3)
 
 * Не требуется снятие конфигурации с замка
 * Возможность подключения в режиме 1С:Предприятие
